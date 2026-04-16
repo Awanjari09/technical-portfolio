@@ -1,0 +1,9 @@
+AWS Learning Summary
+
+- Studied core AWS services: EC2, S3, IAM
+- Understood basics of cloud computing and virtualization
+- Learned how to launch EC2 instances and manage storage using S3
+- Explored IAM roles and permissions for secure access control
+- Currently learning deployment and scalability concepts
+
+This is part of my ongoing learning in cloud technologies.
